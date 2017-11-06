@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/home"
+        icon="@drawable/home"
+        title="Home" />
+    <tab
+        id="@+id/map"
+        icon="@drawable/map"
+        title="Map" />
+    <tab
+        id="@+id/codex"
+        icon="@drawable/list"
+        title="Codex" />
+    <tab
+        id="@+id/skills"
+        icon="@drawable/plus"
+        title="Skills" />
+    <tab
+        id="@+id/settings"
+        icon="@drawable/gear"
+        title="Settings" />
+</tabs>
